@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/stsynphot/commit/dafc63928fc849b27f01cf45f36ee74927db3bde",
       "git:hexsha": "dafc63928fc849b27f01cf45f36ee74927db3bde",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T01:00:30.554046+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/stsynphot/commit/31450a0eea63cf5d85a0b82cb5211e5d47d282c6",
