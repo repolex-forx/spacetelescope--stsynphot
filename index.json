@@ -1,0 +1,11 @@
+{
+  "org": "spacetelescope",
+  "repo": "stsynphot",
+  "versions": [
+    {
+      "commit": "dafc63928fc849b27f01cf45f36ee74927db3bde",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:00:30.554819+00:00"
+    }
+  ]
+}
